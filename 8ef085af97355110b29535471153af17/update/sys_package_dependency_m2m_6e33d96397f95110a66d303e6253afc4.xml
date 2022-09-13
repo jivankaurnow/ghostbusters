@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">c5d44c9797311110a66d303e6253afc3</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 18:46:27</sys_created_on>
+        <sys_id>6e33d96397f95110a66d303e6253afc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Ghostbusters" source="8ef085af97355110b29535471153af17">8ef085af97355110b29535471153af17</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 18:46:27</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
